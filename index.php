@@ -46,7 +46,7 @@ require_once(dirname(__FILE__) . DIRECTORY_SEPARATOR . 'device.php');
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
                         <ul class="dropdown-menu" role="menu">
                             <li><a target="_blank" href="https://make.quwj.com/project/10">Pi Dashboard</a></li>
-                            <li><a target="_blank" href="https://github.com/TonyCSB/pi-dashboard">GitHub Source</a></li>
+                            <li><a target="_blank" href="https://github.com/SibeiC/pi-dashboard">GitHub Source</a></li>
                         </ul>
                     </li>
                 </ul>
